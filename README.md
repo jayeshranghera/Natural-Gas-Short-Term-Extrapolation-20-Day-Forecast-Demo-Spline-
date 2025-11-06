@@ -1,5 +1,9 @@
 # Natural Gas Short-Term Extrapolation — 20-Day Forecast Demo (Spline)
 
+This project is part of the **JPMorgan Chase & Co. Virtual Job Simulation (Forage Platform)**.  
+All code and analysis are written by me based on the tasks provided in the simulation.
+
+
 ## Overview
 Extends the spline-fitted forward curve to project short-horizon prices (e.g., next 20 days) and visualizes the trajectory vs. latest historical points.
 
