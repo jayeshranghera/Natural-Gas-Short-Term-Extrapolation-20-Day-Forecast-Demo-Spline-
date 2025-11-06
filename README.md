@@ -21,7 +21,7 @@ Extends the spline-fitted forward curve to project short-horizon prices (e.g., n
 - No seasonality/exogenous features included.
 - Validate via backtests before any use.
 
-## Next Steps
+## What can make this better...
 - Add rolling-origin backtest
 - Confidence bands via residual variance
 - Compare with ARIMA/Prophet/GBM baselines
